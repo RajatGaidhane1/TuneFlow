@@ -1,4 +1,4 @@
-package com.rajat.ModernMusicAppUI
+package com.rajat.TuneFlow
 
 import androidx.compose.runtime.MutableState
 import androidx.compose.runtime.mutableStateOf

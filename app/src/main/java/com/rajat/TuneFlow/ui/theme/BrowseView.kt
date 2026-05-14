@@ -1,10 +1,11 @@
-package com.rajat.ModernMusicAppUI.ui.theme
+package com.rajat.TuneFlow.ui.theme
 
 import androidx.compose.foundation.lazy.grid.GridCells
 import androidx.compose.foundation.lazy.grid.LazyVerticalGrid
 import androidx.compose.foundation.lazy.grid.items
 import androidx.compose.runtime.Composable
-import com.rajat.ModernMusicAppUI.R
+//import com.rajat.ModernMusicAppUI.R
+import com.rajat.TuneFlow.R
 
 @Composable
 fun Browse(){

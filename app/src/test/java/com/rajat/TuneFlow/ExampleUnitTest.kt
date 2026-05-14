@@ -1,4 +1,4 @@
-package com.rajat.ModernMusicAppUI
+package com.rajat.TuneFlow
 
 import org.junit.Test
 

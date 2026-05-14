@@ -1,4 +1,4 @@
-package com.rajat.ModernMusicAppUI.ui.theme
+package com.rajat.TuneFlow.ui.theme
 
 import android.app.Activity
 import android.os.Build

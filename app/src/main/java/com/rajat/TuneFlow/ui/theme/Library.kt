@@ -1,4 +1,4 @@
-package com.rajat.ModernMusicAppUI.ui.theme
+package com.rajat.TuneFlow.ui.theme
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -17,8 +17,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
-import com.rajat.ModernMusicAppUI.Lib
-import com.rajat.ModernMusicAppUI.libraries
+import com.rajat.TuneFlow.Lib
+import com.rajat.TuneFlow.libraries
 
 @Composable
 fun Library(){

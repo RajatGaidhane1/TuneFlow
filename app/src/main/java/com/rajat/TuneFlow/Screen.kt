@@ -1,4 +1,4 @@
-package com.rajat.ModernMusicAppUI
+package com.rajat.TuneFlow
 
 import androidx.annotation.DrawableRes
 

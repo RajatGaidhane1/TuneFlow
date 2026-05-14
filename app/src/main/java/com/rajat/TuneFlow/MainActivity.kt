@@ -1,4 +1,4 @@
-package com.rajat.ModernMusicAppUI
+package com.rajat.TuneFlow
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -7,8 +7,8 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
-import com.rajat.ModernMusicAppUI.ui.MainView
-import com.rajat.ModernMusicAppUI.ui.theme.MusicAppUITheme
+import com.rajat.TuneFlow.ui.MainView
+import com.rajat.TuneFlow.ui.theme.MusicAppUITheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

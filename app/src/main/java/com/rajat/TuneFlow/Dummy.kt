@@ -1,7 +1,7 @@
-package com.rajat.ModernMusicAppUI
+package com.rajat.TuneFlow
 
 import androidx.annotation.DrawableRes
-import com.rajat.ModernMusicAppUI.R
+import com.rajat.TuneFlow.R
 
 data class Lib(@DrawableRes val icon: Int, val name:String)
 

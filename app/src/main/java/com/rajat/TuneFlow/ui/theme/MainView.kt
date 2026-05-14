@@ -1,4 +1,4 @@
-package com.rajat.ModernMusicAppUI.ui
+package com.rajat.TuneFlow.ui
 
 import android.util.Log
 import androidx.compose.foundation.background
@@ -51,17 +51,18 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
-import com.rajat.ModernMusicAppUI.MainViewModel
-import com.rajat.ModernMusicAppUI.R
-import com.rajat.ModernMusicAppUI.Screen
-import com.rajat.ModernMusicAppUI.screensInBottom
-import com.rajat.ModernMusicAppUI.screensInDrawer
-import com.rajat.ModernMusicAppUI.ui.theme.AccountDialog
-import com.rajat.ModernMusicAppUI.ui.theme.AccountView
-import com.rajat.ModernMusicAppUI.ui.theme.Browse
-import com.rajat.ModernMusicAppUI.ui.theme.Home
-import com.rajat.ModernMusicAppUI.ui.theme.Library
-import com.rajat.ModernMusicAppUI.ui.theme.Subscription
+//import com.rajat.ModernMusicAppUI.R
+import com.rajat.TuneFlow.MainViewModel
+import com.rajat.TuneFlow.R
+import com.rajat.TuneFlow.Screen
+import com.rajat.TuneFlow.screensInBottom
+import com.rajat.TuneFlow.screensInDrawer
+import com.rajat.TuneFlow.ui.theme.AccountDialog
+import com.rajat.TuneFlow.ui.theme.AccountView
+import com.rajat.TuneFlow.ui.theme.Browse
+import com.rajat.TuneFlow.ui.theme.Home
+import com.rajat.TuneFlow.ui.theme.Library
+import com.rajat.TuneFlow.ui.theme.Subscription
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.launch
 

@@ -1,4 +1,4 @@
-package com.rajat.ModernMusicAppUI.ui.theme
+package com.rajat.TuneFlow.ui.theme
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -48,7 +48,7 @@ fun AccountView(){
 
         Row(modifier = Modifier.padding(top = 16.dp)) {
             Icon(
-                painter = painterResource(id = com.rajat.ModernMusicAppUI.R.drawable.baseline_music_video_24),
+                painter = painterResource(id = com.rajat.TuneFlow.R.drawable.baseline_music_video_24),
                 contentDescription = "My Music",
                 modifier = Modifier.padding(end = 8.dp)
             )

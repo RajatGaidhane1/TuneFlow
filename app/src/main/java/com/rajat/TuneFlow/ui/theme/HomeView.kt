@@ -1,4 +1,4 @@
-package com.rajat.ModernMusicAppUI.ui.theme
+package com.rajat.TuneFlow.ui.theme
 
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.ExperimentalFoundationApi
@@ -18,7 +18,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
-import com.rajat.ModernMusicAppUI.R
+
+import com.rajat.TuneFlow.R
 
 @OptIn(ExperimentalFoundationApi::class)
 @Composable

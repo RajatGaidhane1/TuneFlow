@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.rajat.ModernMusicAppUI"
+    namespace = "com.rajat.TuneFlow"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.rajat.ModernMusicAppUI"
+        applicationId = "com.rajat.TuneFlow"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
