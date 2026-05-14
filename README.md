@@ -118,8 +118,8 @@ Potential next steps to evolve this into a full application:
 ## Author
 
 **Rajat Gaidhane**
-- GitHub: [@RajatGaidhane1](https://github.com/RajatGaidhane1)
-- LinkedIn: [linkedin.com/in/rajatgaidhane](https://linkedin.com/in/rajatgaidhane)
+- GitHub: https://github.com/RajatGaidhane1?tab=repositories
+- LinkedIn: https://www.linkedin.com/in/rajat-gaidhane-5383002b7/
 
 ---
 
